@@ -1,0 +1,33 @@
+{
+name: 
+"PoolPeekCoin",
+image: 
+"ipfs://QmQDPkdzUQtQD8o1NsPnBDZPgfZGyBKKNd2RCpZSGCgbpr",
+files: 
+[
+{
+src: 
+"ipfs://QmQDPkdzUQtQD8o1NsPnBDZPgfZGyBKKNd2RCpZSGCgbpr",
+name: 
+"PoolPeekCoin",
+mediaType: 
+"image/gif"
+}
+],
+mediaType: 
+"image/gif",
+Created By: 
+"@PoolShamrock, @BraveHeartStak3, @M1Crypto1",
+description: 
+"PoolPeek Rewards Coin",
+Twitter Account: 
+"@CardanoPoolPeek",
+Date Of Creation: 
+"29/12/2021",
+PoolPeek Website: 
+"https://poolpeek.com/#/",
+Telegram Account: 
+"https://t.me/poolpeek",
+Total Coins in Circulation: 
+"21,000,000"
+}
